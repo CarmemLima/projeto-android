@@ -37,6 +37,9 @@ body{
 header{
     background-image: linear-gradient(to bottom, var(--cor01), var(--cor04));
     padding-top: 30px;
+    min-width: 400px;
+    max-width: 800px;
+    margin: auto;
 }
 
 header > h1{
