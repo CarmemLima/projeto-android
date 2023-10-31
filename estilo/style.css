@@ -53,14 +53,17 @@ header > h1{
 }
 
 header>p{
-    color: white;
-    padding-bottom: 20px;
-    margin: auto;
-    padding-left: 10px;
-    padding-right: 10px;
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
+    color: white;
     max-width: 600px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: auto;
+    margin-bottom: 30px;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.367);
+    
+    
     text-shadow: 2px 2px 0px gba(0, 0, 0, 0.3);
     
     
