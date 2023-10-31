@@ -59,7 +59,8 @@ header > h1{
 header>p{
     color: white;
     padding-bottom: 20px;
-    max-width: 600px;
+    min-width: 400px;
+    max-width: 800px;
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
@@ -203,6 +204,8 @@ aside ul{
 
 footer{
     background-color: var(--cor01);
+    min-width: 400px;
+    max-width: 800px;
     color: white;
     text-align: center;
     font-size: 0.8em;
