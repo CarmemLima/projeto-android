@@ -203,6 +203,7 @@ footer{
     background-color: var(--cor01);
     margin: 0;
     width: 100%;
+    padding: 30px; 0;
     color: white;
     text-align: center;
     font-size: 0.8em;
