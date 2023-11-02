@@ -36,7 +36,8 @@ body{
 }
 header{
     background-image: linear-gradient(to bottom, var(--cor01), var(--cor04));
-    margin: auto;
+    min-width: 400;
+    max-width: 800;
     text-align: center;
     padding-top: 30px;
 }
